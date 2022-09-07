@@ -1,0 +1,18 @@
+## Zhanna Chaikovska
+##### Junior Frontend Developer
+---
+####Contact information:
+**Phone:** + 38(093)77 63 844
+**Email:** zhanna01992@gmail.com
+**Git-Hub:** https://github.com/zhannach
+**Location:** Vinnytsia, Ukraine
+
+---
+#####About
+My path in Frontend Development started 9 months ago,when I created a simple CV page using HTML and CSS. Then I dived into learning JS. I have mastered all the information by myself, used some English education courses, Youtube, articles and documentation. 
+Now, I am ready to move on. The best way to improve my knowledge - it's work in the real project with team. 
+
+I am a very motivated person, who knows how to get along with people. I consider punctuality and critical thinking to be my strengths.
+
+---
+
