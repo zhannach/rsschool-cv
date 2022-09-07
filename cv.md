@@ -27,16 +27,16 @@ I am a very motivated person, who knows how to get along with people. I consider
 DESCRIPTION:
 Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
 > function moveZeros(arr) {
-  const zeroArr = [ ]
-  const newArr = [ ]
+  const zeroArray = [ ]
+  const newArray = [ ]
   for (let i = 0; i < arr.length; i++) {
     if (arr[i] === 0) {
-      zeroArr.push(arr[i])
+      zeroArray.push(arr[i])
     }
     else {
-      newArr.push(arr[i])
+      newArray.push(arr[i])
     }
-       console.log(zeroArr)
+       console.log(zeroArray)
   }
-  return newArr.concat(zeroArr)
+  return newArr.concat(zeroArray)
 }
