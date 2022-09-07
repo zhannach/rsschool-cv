@@ -21,7 +21,7 @@ I am a very motivated person, who knows how to get along with people. I consider
 >- HTML5, CSS3
 >- JavaScript Basics
 >- Git, GitHub
->- React(elementary)
+>- React(in process)
 
 ####Code example
 DESCRIPTION:
@@ -40,3 +40,22 @@ Write an algorithm that takes an array and moves all of the zeros to the end, pr
   }
   return newArr.concat(zeroArray)
 }
+
+###Education
+>- Higher medical education (pediatrician)
+>- Begginer JavaScript course from Wes
+Bos(28 hours)
+>- HEXLET - (introduction and basics of
+programming, introduction to web
+development, introduction to git),
+>- JavaScript Simplified from Kyle Cook(27
+hours)
+>-Web Dev Simplified - Learn React(in process)
+
+
+###Languages:
+
+Ukraine - native
+Russian - advance
+English - intermediate
+Spanish - begginer
