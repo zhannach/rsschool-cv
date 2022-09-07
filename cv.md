@@ -16,3 +16,10 @@ I am a very motivated person, who knows how to get along with people. I consider
 
 ---
 
+####Skills
+
+>- HTML5, CSS3
+>- JavaScript Basics
+>- Git, GitHub
+>- React(elementary)
+
