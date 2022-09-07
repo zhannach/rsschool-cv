@@ -23,3 +23,20 @@ I am a very motivated person, who knows how to get along with people. I consider
 >- Git, GitHub
 >- React(elementary)
 
+####Code example
+DESCRIPTION:
+Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
+> function moveZeros(arr) {
+  const zeroArr = [ ]
+  const newArr = [ ]
+  for (let i = 0; i < arr.length; i++) {
+    if (arr[i] === 0) {
+      zeroArr.push(arr[i])
+    }
+    else {
+      newArr.push(arr[i])
+    }
+       console.log(zeroArr)
+  }
+  return newArr.concat(zeroArr)
+}
