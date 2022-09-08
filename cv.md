@@ -2,9 +2,9 @@
 ##### Junior Frontend Developer
 ---
 #### Contact information:
-**Phone:** + 38(093)77 63 844
-**Email:** zhanna01992@gmail.com
-**Git-Hub:** https://github.com/zhannach
+**Phone:** + 38(093)77 63 844\
+**Email:** zhanna01992@gmail.com\
+**Git-Hub:** https://github.com/zhannach\
 **Location:** Vinnytsia, Ukraine
 
 ---
@@ -57,7 +57,7 @@ hours)
 
 ### Languages:
 
-Ukraine - native
-Russian - advance
-English - intermediate
+Ukraine - native\
+Russian - advance\
+English - intermediate\
 Spanish - begginer
